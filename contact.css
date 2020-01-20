@@ -1,9 +1,11 @@
 #atas{
 	background-color: blue;
 	width: 100%;
-	height: 150px;
-	margin: 0px;
+	height: 100px;
+	margin-top: 0px;
+	padding-top: 20px;
 }
+
 #atas b{
 	color: white;
 	font-size: 25pt;
@@ -15,6 +17,16 @@
 	margin-left: 100px;
 	margin-top: 0px;
 	margin-bottom: 10px;
+}
+#bawah a{
+	text-decoration: none;
+	color: white;
+}
+#bl1:hover{
+	color: orange;
+}
+#bawah h1{
+	padding-top: 190px;
 }
 #bawah{
 	background-image: url(gbr/bgjely.png);
@@ -32,7 +44,10 @@
 	color: white;
 	text-align: center;
 	font-size: 13pt;
-	padding-top: 50px; 
+	margin-top: 0px; 
+}
+#ah1:hover{
+	color: orange;
 }
 #isi{
 	background-color: whitesmoke;
@@ -49,6 +64,34 @@ a{
 	font-size: 15pt;
 	width: 40%;
 	height: 400px;
+}
+#formulir{
+	overflow: hidden;
+}
+#b1{
+	color: lightblue;
+}
+#b2{
+	color: red;
+}
+#input1{
+	width: 185px;
+	padding: 5px;
+	box-sizing: border-box;
+}
+#input2{
+	width: 70%;
+	padding: 5px;
+	box-sizing: border-box;
+}
+textarea{
+	width: 70%;
+	padding: 5px;
+	box-sizing: border-box;
+}
+#ipt2{
+	width: 15%;
+	box-sizing: border-box;
 }
 #peta{
 	float: right;
