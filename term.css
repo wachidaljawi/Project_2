@@ -1,0 +1,69 @@
+.header {
+    background-color: mediumblue;
+    width: 100%;
+    height: 100px;
+    color: white;
+}
+
+.header h2 {
+    margin-left: 50px;
+}
+
+.header p {
+    margin-left: 50px;
+}
+
+.subheader {
+    background-image: url(img/gambar01.jpg);
+    width: 100%;
+    height: 500px;
+    color: white;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.subheader h1 {
+    padding-top: 200px;
+}
+
+.content {
+    background-color: whitesmoke;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.content h2 {
+    color: blue;
+}
+
+.content li {
+    color: steelblue;
+}
+
+.content h3 {
+    color: steelblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 50px;
+}
+
+.content img {
+    margin-left: 50px;
+}
+
+.footer {
+    background-color: whitesmoke;
+    height: 50px;
+    width: 100%;
+}
+
+.footer p {
+    float: left;
+    width: 50%;
+    margin-left: 50px;
+    color: steelblue;
+}
+
+.footer i {
+    float: right;
+    width: 50px;
+}
