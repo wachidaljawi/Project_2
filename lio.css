@@ -1,0 +1,65 @@
+#teks{
+	background-color: blue;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+#teks a{
+	color: white;
+	font-size: 30pt;
+	margin-left: 100px;
+}
+#teks p{
+	color: white;
+	font-size: 15pt;
+	margin-left: 100px;
+	margin-top: 0px;
+	margin-bottom: 10px
+}
+#bawah{
+	background-image: url(gbr/logo.jpg);
+	background-repeat: none;
+	width: 100%;
+	height: 350px;
+	margin: -15px;
+}
+#bawah h1{
+	color: white;
+	text-align: center;
+}
+#bawah p{
+	color: white;
+	font-size: 10pt;
+	text-align: center;
+	line-height: 2.5;
+
+}
+#content button{
+	margin: 10px;
+	background-color: orange;
+	color: white;
+	padding-top: 2px;
+	padding-right: 15px;
+	padding-bottom: 2px;
+	padding-left: 15px;
+	margin-bottom: 0px;
+	display: inline-block;
+	font-size: 14px;
+}
+#akhir{
+	margin-top: 20px;
+	background-color: white;
+	padding-top: 23px;
+	padding-right: 20px;
+	padding-bottom: 23px;
+	padding-left: 20px;
+}
+#akhir p{
+	padding-right: 38px;
+	float: left;
+	text-align: right;
+}
+#footer{
+	height: 90px;
+	margin: 0 auto;
+}
